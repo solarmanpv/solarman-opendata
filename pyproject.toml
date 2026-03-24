@@ -3,8 +3,8 @@ requires = ["setuptools>=65.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "solarman-opendata"
-version = "0.0.2"
+name = "solarman-opendata-test"
+version = "0.0.3"
 description = "Asynchronous Python API for Solarman devices"
 readme = "README.md"
 requires-python = ">=3.12"
