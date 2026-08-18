@@ -94,6 +94,7 @@ class Solarman:
         api_map = {
             "SP-2W-EU": "Plug.GetData",
             "P1-2W": "P1.JsonData",
+            "P1-2WR": "P1.JsonData",
             "gl meter": "Meter.JsonData",
         }
 
